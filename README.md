@@ -39,7 +39,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 #### 🗃️ Front End
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Site Fonoaudiologia** | Site desenvolvido para o projeto desenvolvido para disciplina de Front End. | [Ver Projeto](.https://github.com/AmandxDantas/portf-lio/tree/5884c76740a0ee3136c7236465e4b4a331fa2957/Site-Fonoaudiologia-Frontend) |
+| **Site Fonoaudiologia** | Site desenvolvido para o projeto desenvolvido para disciplina de Front End. | [Ver Projeto](.https://github.com/AmandxDantas/portf-lio/tree/8270b5cab8936cf158ff1d6617bdaf98d2ea3b83/Site-Fonoaudiologia-Frontend) |
  
 #### 🤖 Engenharia de prompt e aplicações em Ia
 | Projeto | Descrição | Link |
