@@ -1,4 +1,6 @@
 Whats My Name(Copia) 
+
+
 📝 Descrição do Projeto
 Este projeto consiste em uma ferramenta avançada de Pesquisa de OSINT, desenvolvida através da técnica de "Vibecoding" (clonagem de interface assistida por IA). O objetivo principal é A ideia central do app é ajudar a pessoa a descobrir sua presença online. Você digita um nome (geralmente o seu) e ele busca em várias plataformas e sites para revelar possíveis perfis, contas ou menções. .
 
