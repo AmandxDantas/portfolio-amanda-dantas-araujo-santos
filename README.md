@@ -36,17 +36,21 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 🗃️ Front End
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Site Fonoaudiologia** | Site desenvolvido para o projeto desenvolvido para disciplina de Front End. | [Ver Projeto](.https://github.com/AmandxDantas/portf-lio/tree/5884c76740a0ee3136c7236465e4b4a331fa2957/Site-Fonoaudiologia-Frontend) |
  
-#### 🤖 Inteligência Artificial
+#### 🤖 Engenharia de prompt e aplicações em Ia
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
- 
----
+| **Site Look4nick** | Site Desenvolvido Para Disciplina engenharia de Prompt e Aplicações em Ia. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/5884c76740a0ee3136c7236465e4b4a331fa2957/Site-Look4Nick-main) |
+
+ #### 🗃️ Algoritimos e Pensamento computacional
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Ordenação de Algoritimos** | Sistema Desenvolvido para disciplina de Algoritimos . | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/5884c76740a0ee3136c7236465e4b4a331fa2957/algoritmos-de-ordena-o--main) |
+
  
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
