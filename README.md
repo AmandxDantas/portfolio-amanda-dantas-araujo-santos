@@ -1,4 +1,4 @@
-###Amanda Dantas Araujo Santos
+Amanda Dantas Araujo Santos
 > Estudante de Analise e Desenvolvimento de Sistemas
  
 
