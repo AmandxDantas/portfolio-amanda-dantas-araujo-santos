@@ -1,5 +1,7 @@
-Look4Nick
+### Look4Nick
+
 📝 Descrição do Projeto
+
 Esse projeto tem como base faze a evolução de um site ja existente como um autonomo
 
 🚀 Tecnologias Utilizadas
