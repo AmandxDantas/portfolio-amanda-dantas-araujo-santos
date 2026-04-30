@@ -57,7 +57,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
  ### 🖥Front-End
  | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Site Fonoaudiologia** | Site desenvolvido para o curso de Fonoaudiologia da Univercidade Cidade de São Paulo | [Ver Projeto](https://github.com/AmandxDantas/Site-Fonoaudiologia/tree/23ba9014bec1acc1f863ec1441d1033d9b613061/RATS%20FINAL/RATS) |
+| **Site Fonoaudiologia** | Site desenvolvido para o curso de Fonoaudiologia da Universidade Cidade de São Paulo | [Ver Projeto](https://github.com/AmandxDantas/Site-Fonoaudiologia/tree/23ba9014bec1acc1f863ec1441d1033d9b613061/RATS%20FINAL/RATS) |
 
  
 ### 🏗 Estrutura do Repositório
