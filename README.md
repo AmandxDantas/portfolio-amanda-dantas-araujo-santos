@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em  Desenvolvimento Backend.
+Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São paulo. Sou apaixonada por resolver problemas através da tecnologia e possuo foco em  Desenvolvimento Backend.
  
 * **Habilidades Técnicas:** [ Python, C, SQL, ].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
