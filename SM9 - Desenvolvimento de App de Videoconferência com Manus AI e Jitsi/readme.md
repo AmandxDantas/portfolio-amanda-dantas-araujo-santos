@@ -42,25 +42,27 @@ IdiomaMeet resolve todos esses problemas conectando você com parceiros aleatór
 git clone https://github.com/seu-usuario/idioma-meet-android.git
 cd idioma-meet-android
 
-### Passo 2: Abrir no Android Studio
+Passo 2: Abrir no Android Studio
 
 1. Abra Android Studio
 2. File → Open
 3. Selecione a pasta do projeto
 4. Aguarde sincronização automática do Gradle
 
-### Passo 3: Sincronizar Dependências
+Passo 3: Sincronizar Dependências
 
 File → Sync Now (Ctrl+Alt+Y )
 Aguarde até aparecer: "Gradle build finished"
 
-### Passo 4: Compilar e Executar
+Passo 4: Compilar e Executar
 Plain Text
 Build → Make Project (Ctrl+F9)
 Run → Run 'app' (Shift+F10)
 Selecione seu dispositivo/emulador
 
-### Passo 5: Usar o App
+
+Passo 5: Usar o App
+
 Fazer Login
 Email: email@teste.com
 Senha: senha123
@@ -74,8 +76,6 @@ Converse com seu parceiro
 Use o chat integrado
 Clique "Sair" para encerrar
 Plain Text
-
-
 
 
 
