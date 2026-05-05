@@ -45,27 +45,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 | **Engenharia de Software e IA com Bubble.io** | Sistema de orçamento com IA no Bubble.io para automatizar propostas e organizar dados. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/a155207e9a7611b6b0d9a962e8f423efdb334d0d/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
 | **IdiomaMeet** | Site que conecta usuários para troca e prática de idiomas. | [Ver Projeto](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/tree/39d5198445d19b54af58b8d8db9d56e2864e1166/SM9%20-%20Desenvolvimento%20de%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi) |
 
-#### 🤖 Inteligência Artificial
-| **Projeto** | **Descrição** | **Link** |
-| **Look4nick** |Site feito em Vibecode com base em no site WHats My name. | [Ver Projeto](https://github.com/AmandxDantas/Site-Look4Nick/tree/b0bb164b720d6dbc72d3538e6aa646eaf11748c8/look4nick) |
-| :--- | :--- | :---: |
 
-| **Projeto** | **Descrição** | **Link** |
-| **Whats my name** | Site feito em Vibecode clonando o site Whats My Name. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/c7cfc36c84b2cbb5ccf091b43112a37f9897f6d1/Projeto%20engenharia%20reversa%20clone) |
-
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Corrida do Prompt** |Metodo tecnico de prompts com poucas tentantivas na busca do melhor resultado. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/c7cfc36c84b2cbb5ccf091b43112a37f9897f6d1/Projeto-redefini%C3%A7%C3%A3o%20de%20prompt) |
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Engenharia de Software e IA com Bubble.io** |Sistema de orçamento no Bubble.io com IA, focado em automatizar propostas e organizar dados com eficiência. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/a155207e9a7611b6b0d9a962e8f423efdb334d0d/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
-
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **IdiomaMeet** |Site que conecta usuários para troca e prática de idiomas. | [Ver Projeto](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/tree/39d5198445d19b54af58b8d8db9d56e2864e1166/SM9%20-%20Desenvolvimento%20de%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi) |
 
  ### 🖥Front-End
  | Projeto | Descrição | Link |
