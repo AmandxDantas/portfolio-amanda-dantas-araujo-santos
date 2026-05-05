@@ -54,10 +54,10 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 | :--- | :--- | :---: |
 | **Engenharia de Software e IA com Bubble.io** |Sistema de orçamento no Bubble.io com IA, focado em automatizar propostas e organizar dados com eficiência. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/a155207e9a7611b6b0d9a962e8f423efdb334d0d/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
 
+
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **IdiomaMeet** |Site que conecta usuários para troca e prática de idiomas.. | [Ver Projeto](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/tree/39d5198445d19b54af58b8d8db9d56e2864e1166/SM9%20-%20Desenvolvimento%20de%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi
-) |
+| **IdiomaMeet** |Site que conecta usuários para troca e prática de idiomas. | [Ver Projeto](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/tree/39d5198445d19b54af58b8d8db9d56e2864e1166/SM9%20-%20Desenvolvimento%20de%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi) |
 
  ### 🖥Front-End
  | Projeto | Descrição | Link |
