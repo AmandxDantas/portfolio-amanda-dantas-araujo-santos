@@ -38,7 +38,7 @@ IdiomaMeet resolve todos esses problemas conectando você com parceiros aleatór
 
 ### Passo 1: Clonar o Repositório
 
-```bash
+bash
 git clone https://github.com/seu-usuario/idioma-meet-android.git
 cd idioma-meet-android
 
