@@ -38,7 +38,6 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
-| :--- | :--- | :---: |
 | **Look4nick** |Site feito em Vibecode com base em no site WHats My name. | [Ver Projeto](https://github.com/AmandxDantas/Site-Look4Nick/tree/b0bb164b720d6dbc72d3538e6aa646eaf11748c8/look4nick) |
 | :--- | :--- | :---: |
 | **Whats my name** | Site feito em Vibecode clonando o site Whats My Name. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/c7cfc36c84b2cbb5ccf091b43112a37f9897f6d1/Projeto%20engenharia%20reversa%20clone) |
