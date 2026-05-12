@@ -1,3 +1,5 @@
+### SM6 - Engenharia de Software e IA com Bubble.io
+
 ### 🔧 Engenharia de Software e IA com Bubble.io
 
 O sistema foi inicialmente desenvolvido utilizando a plataforma Bubble, que, por ser proprietária, não permite a exportação direta do código-fonte da aplicação. Essa característica pode gerar dependência tecnológica (vendor lock-in), limitando a escalabilidade e a flexibilidade da solução a longo prazo.
