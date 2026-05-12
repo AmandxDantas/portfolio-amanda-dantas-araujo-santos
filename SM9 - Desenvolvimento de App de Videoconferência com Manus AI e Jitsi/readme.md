@@ -1,3 +1,6 @@
+### SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi
+
+
 ### IdiomaMeet 🌍
  
  Aplicativo Android de videoconferência que conecta você com parceiros aleatórios para conversas de idiomas em tempo real.
