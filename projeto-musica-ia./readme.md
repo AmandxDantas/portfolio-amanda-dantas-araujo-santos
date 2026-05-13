@@ -20,7 +20,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | Eclipse de Canga | Synthwave Melancólico / The Weeknd | [Ouvir MP3](./audios/eclipse-de-canga.mp3) |
+| 01 | Eclipse de Canga | Synthwave Melancólico / | [Ouvir MP3](./audios/eclipse-de-canga.mp3) |
 | 02 | Mística das Altas Hora | Trap Atmosférico Noturno | [Ouvir MP3](./audios/mistica-das-altas-hora.mp3) |
 | 03 | Alquimia de Maio | Neo-Samba Pop | [Ouvir MP3](./audios/alquimia-de-maio.mp3) |
 | 04 | Labirinto de Maresia | Neo-Samba Hipnótico | [Ouvir MP3](./audios/labirinto-de-maresia.mp3) |
@@ -32,4 +32,4 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 3. **Produção:** Geração das letras e posterior conversão em áudio no Suno AI, ajustando parâmetros de gênero musical e BPM.
  
 ---
-Desenvolvido por [[SEU NOME]](https://github.com/[SEU_USUARIO])
+Desenvolvido por [ Amanda Dantas Araujo Santos ](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos)
