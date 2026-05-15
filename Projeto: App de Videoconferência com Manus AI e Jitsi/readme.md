@@ -48,4 +48,5 @@ URL de Acesso
 Versão Web (Simulação): [Link de Pré-visualização] (https://manus.im/app-preview/P9cdEposrKokdRwgaGtHuF?sessionId=z7bEFQ5ygxXCUenyO4brG7)
 
 QR Code para Acesso Rápido:
-Captura de tela 2026-05-05 084008
+<img width="280" height="265" alt="image" src="https://github.com/user-attachments/assets/e6757638-a8b4-4232-8a9c-1a483ab838ff" />
+
