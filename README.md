@@ -11,7 +11,11 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São paulo. Sou apaixonada por resolver problemas através da tecnologia e possuo foco em  Desenvolvimento Backend.
+Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São paulo. Sou apaixonada por resolver problemas através da tecnologia e possuo foco em  Desenvolvimento Backend. 
+
+Atualmente, busco ampliar meus conhecimentos em desenvolvimento de software, computação em nuvem e inteligência artificial, com foco na criação de soluções escaláveis e eficientes. Tenho interesse em arquitetura de sistemas, APIs, automação de processos e integração entre plataformas.
+
+Durante minha trajetória acadêmica, desenvolvi projetos utilizando metodologias ágeis, prototipação de interfaces e ferramentas de IA generativa, aplicando conceitos de usabilidade, lógica de programação e organização de dados. Também possuo interesse em aprender novas tecnologias e colaborar em projetos que envolvam inovação e impacto social.
  
 * **Habilidades Técnicas:** [ Python, C, SQL, ].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
