@@ -43,12 +43,12 @@ Durante minha trajetória acadêmica, desenvolvi projetos utilizando metodologia
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Look4nick** | Site feito em Vibecode com base no site Whats My Name. | [Ver Projeto](https://github.com/AmandxDantas/Site-Look4Nick/tree/b0bb164b720d6dbc72d3538e6aa646eaf11748c8/look4nick) |
+| **Look4nick** | Site feito em Vibecode com base no site Whats My Name. | [Ver Projeto](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/tree/7671771ba97d8cf488da3ad6a30c736f38a76524/Projeto-engenharia-reversa) |
 | **Whats My Name (Clone)** | Site feito em Vibecode clonando o site Whats My Name. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/c7cfc36c84b2cbb5ccf091b43112a37f9897f6d1/Projeto%20engenharia%20reversa%20clone) |
-| **Corrida do Prompt** | Método técnico de prompts com poucas tentativas para alcançar o melhor resultado. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/c7cfc36c84b2cbb5ccf091b43112a37f9897f6d1/Projeto-redefini%C3%A7%C3%A3o%20de%20prompt) |
-| **Engenharia de Software e IA com Bubble.io** | Sistema de orçamento com IA no Bubble.io para automatizar propostas e organizar dados. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/a155207e9a7611b6b0d9a962e8f423efdb334d0d/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
-| **IdiomaMeet** | Site que conecta usuários para troca e prática de idiomas. | [Ver Projeto](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/tree/40908e200a95e08cec2f19a5b755fdaf6016e7da/Projeto%3A%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi) |
-| **Projeto Musica com Ia** | produção de um EP com 5 faixas inéditas, cujas letras foram geradas pela IA e a produção musical realizada via Suno AI.. | [Ver Projeto](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/tree/56627d51b37fe9b8cdf1841079cafab1937b3229/projeto-musica-ia.) |
+| **Corrida do Prompt** | Método técnico de prompts com poucas tentativas para alcançar o melhor resultado. | [Ver Projeto](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/tree/8a764c671bc1217fefc108ed48fa3f3908c648ce/projeto-a-a-do-prompt) |
+| **Engenharia de Software e IA com Bubble.io** | Sistema de orçamento com IA no Bubble.io para automatizar propostas e organizar dados. | [Ver Projeto](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/tree/258deffcb5300a33fdf954c90be67288904c2e85/projeto-engenharia-de%20Software-e-ia-com-bubble.io) |
+| **IdiomaMeet** | Site que conecta usuários para troca e prática de idiomas. | [Ver Projeto](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/tree/258deffcb5300a33fdf954c90be67288904c2e85/projeto-desenvolvimento-de-app-de-video-conferencia-com-manus-ai-e-jitsi) |
+| **Projeto Musica com Ia** | produção de um EP com 5 faixas inéditas, cujas letras foram geradas pela IA e a produção musical realizada via Suno AI.. | [Ver Projeto](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/tree/8a764c671bc1217fefc108ed48fa3f3908c648ce/projeto-composi%C3%A7%C3%A3o-musical-assistida-por-intelig%C3%AAncia-artificial) |
 
 
 
